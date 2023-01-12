@@ -1,1 +1,1 @@
-web: gunicorn binarystartle.wsgi
+web: gunicorn radiostation.wsgi
